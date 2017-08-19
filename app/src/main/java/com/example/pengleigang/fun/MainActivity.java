@@ -9,7 +9,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        //测试...12121212sdfsf
+        //测试...12121212sdfsfsdfsdffsdf
         //newBranch sdfsf
 
     }
